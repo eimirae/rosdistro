@@ -345,6 +345,7 @@ ffmpeg:
   arch: [ffmpeg]
   debian: [ffmpeg, libavcodec-dev, libavformat-dev, libavutil-dev, libswscale-dev]
   fedora: [ffmpeg-devel]
+  rhel:   [ffmpeg-devel]
   gentoo: [ffmpeg]
   macports: [ffmpeg]
   ubuntu: [ffmpeg, libavcodec-dev, libavformat-dev, libavutil-dev, libswscale-dev]

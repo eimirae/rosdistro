@@ -1026,6 +1026,7 @@ libtiff-dev:
     sid: [libtiff5-dev]
     wheezy: [libtiff5-dev]
   fedora: [libtiff]
+  rhel:   [libtiff]
   ubuntu:
     lucid: [libtiff4-dev]
     maverick: [libtiff4-dev]

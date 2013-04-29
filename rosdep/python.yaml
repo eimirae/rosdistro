@@ -29,6 +29,7 @@ python:
 python-argparse:
   debian: [python-argparse]
   fedora: [python]
+  rhel:   [python]
   ubuntu:
     lucid: [python-argparse]
     maverick: [python-argparse]
@@ -307,6 +308,9 @@ python-rosdep:
     pip:
       packages: [rosdep]
   ubuntu: [python-rosdep]
+  rhel:
+    pip:
+      packages: [rosdep]
 python-rosinstall:
   fedora:
     pip:

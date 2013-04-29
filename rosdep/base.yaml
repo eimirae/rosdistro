@@ -739,6 +739,7 @@ libjpeg:
   arch: [libjpeg-turbo]
   debian: [libjpeg8-dev]
   fedora: [libjpeg-turbo-devel]
+  rhel:   [libjpeg-turbo-devel]
   gentoo: [libjpeg-turbo]
   macports: [jpeg]
   ubuntu:

@@ -528,6 +528,7 @@ jasper:
   arch: [jasper]
   debian: [libjasper-dev]
   fedora: [jasper-devel]
+  rhel:   [jasper-devel]
   gentoo: [jasper]
   macports: [jasper]
   ubuntu: [libjasper-dev]

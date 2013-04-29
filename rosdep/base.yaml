@@ -1549,27 +1549,32 @@ texlive-fonts-extra:
   fedora:
     spherical: [texlive-bbm, texlive-bbm-macros]
   ubuntu: [texlive-fonts-extra]
+  rhel:   [texlive-latex]
 texlive-fonts-recommended:
   debian: [texlive-fonts-recommended]
   fedora:
     spherical: [texlive-times, texlive-helvetic]
   ubuntu: [texlive-fonts-recommended]
+  rhel:   [texlive-latex]
 texlive-latex-base:
   arch: [texlive-base]
   debian: [texlive-latex-base]
   fedora:
     spherical: [texlive-latex, texlive-parskip]
   ubuntu: [texlive-latex-base]
+  rhel:   [texlive-latex]
 texlive-latex-extra:
   debian: [texlive-latex-extra]
   fedora:
     spherical: [texlive-titlesec, texlive-wrapfig, texlive-multirow, texlive-fancybox]
   ubuntu: [texlive-latex-extra]
+  rhel:   [texlive-latex]
 texlive-latex-recommended:
   debian: [texlive-latex-recommended]
   fedora:
     spherical: [texlive-framed, texlive-threeparttable, texlive-ec, texlive-mdwtools]
   ubuntu: [texlive-latex-recommended]
+  rhel:   [texlive-latex]
 tinyxml:
   arch: [tinyxml]
   debian: [libtinyxml-dev]

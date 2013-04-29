@@ -244,6 +244,7 @@ cmake:
   fedora: [cmake]
   gentoo: [dev-util/cmake]
   ubuntu: [cmake]
+  rhel:   [cmake]
 coinor-libipopt-dev:
   debian: [coinor-libipopt-dev]
   fedora: [cmake]
@@ -252,6 +253,7 @@ collada-dom:
   debian: [collada-dom-dev]
   fedora: [collada-dom-devel]
   ubuntu: [collada-dom-dev]
+  rhel:   [collada-dom-devel]
 coreutils:
   arch: [coreutils]
   debian: [coreutils]
@@ -496,6 +498,7 @@ hddtemp:
   debian: [hddtemp]
   fedora: [hddtemp]
   ubuntu: [hddtemp]
+  rhel:   [hddtemp]
 hdf5:
   debian: [libhdf5-serial-dev]
   gentoo: [sci-libs/hdf5]
@@ -872,6 +875,7 @@ libpoco-dev:
   debian: [libpoco-dev]
   fedora: [poco-devel]
   ubuntu: [libpoco-dev]
+  rhel:   [poco-devel]
 libpocofoundation9:
   debian: [libpocofoundation9]
   ubuntu: [libpocofoundation9]
@@ -1084,6 +1088,7 @@ libv4l-dev:
   debian: [libv4l-dev]
   fedora: [libv4l-devel]
   ubuntu: [libv4l-dev]
+  rhel:   [libv4l-devel]
 libvtk:
   arch: [vtk]
   debian: [libvtk5-dev]

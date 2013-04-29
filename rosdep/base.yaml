@@ -870,6 +870,7 @@ libpng12-dev:
   arch: [libpng]
   debian: [libpng12-dev]
   fedora: [libpng-devel]
+  rhel:   [libpng-devel]
   ubuntu: [libpng12-dev]
 libpoco-dev:
   debian: [libpoco-dev]

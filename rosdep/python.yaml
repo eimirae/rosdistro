@@ -307,6 +307,7 @@ python-rospkg:
     pip:
       packages: [rospkg]
   ubuntu: [python-rospkg]
+  rhel: [python-rospkg]
 python-scapy:
   debian: [python-scapy]
   ubuntu: [python-scapy]

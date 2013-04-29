@@ -1521,7 +1521,7 @@ tango-icon-theme:
   macports: [tango-icon-theme]
   mandrake: [tango-icon-theme]
   opensuse: [tango-icon-theme]
-  rhel: [tango-icon-theme]
+  rhel: [oxygen-icon-theme]
   ubuntu: [tango-icon-theme]
 tar:
   arch: [libtar]

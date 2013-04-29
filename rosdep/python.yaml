@@ -358,6 +358,8 @@ python-sphinx:
   arch: [python2-sphinx]
   debian: [python-sphinx]
   fedora: [python-sphinx]
+  rhel:
+     pip: [sphinx]
   freebsd: [py27-sphinx]
   macports: [py26-sphinx]
   ubuntu: [python-sphinx]

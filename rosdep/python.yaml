@@ -91,6 +91,8 @@ python-empy:
   debian: [python-empy]
   fedora: [python-empy]
   ubuntu: [python-empy]
+  rhel:
+    pip: [empy]
 python-gridfs:
   debian: [python-gridfs]
   ubuntu: [python-gridfs]
@@ -150,6 +152,8 @@ python-netifaces:
   debian: [python-netifaces]
   fedora: [python-netifaces]
   ubuntu: [python-netifaces]
+  rhel:
+     pip: [netifaces]
 python-networkx:
   ubuntu: [python-networkx]
 python-nose:
@@ -212,6 +216,8 @@ python-pydot:
     pip:
       packages: [pydot]
   ubuntu: [python-pydot]
+  rhel:
+    pip: [pydot]
 python-pygame:
   debian: [python-pygame]
   ubuntu: [python-pygame]
@@ -351,6 +357,7 @@ python-support:
   debian: [python-support]
   fedora: [python]
   ubuntu: [python-support]
+  rhel:   [python]
 python-svn:
   debian: [python-svn]
   ubuntu: [python-svn]

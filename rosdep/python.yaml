@@ -157,6 +157,7 @@ python-nose:
   debian: [python-nose]
   fedora: [python-nose]
   ubuntu: [python-nose]
+  rhel:   [python-nose]
 python-numpy:
   arch: [python2-numpy]
   debian: [python-numpy]

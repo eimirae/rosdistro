@@ -62,6 +62,8 @@ python-catkin-pkg:
     pip:
       packages: [catkin-pkg]
   ubuntu: [python-catkin-pkg]
+  rhel:
+    pip: [catkin-pkg]
 python-clearsilver:
   centos: [python-clearsilver]
   debian: [python-clearsilver]
@@ -278,6 +280,8 @@ python-qt-bindings-qwt5:
   debian: [python-qwt5-qt4]
   fedora: [PyQwt-devel]
   ubuntu: [python-qwt5-qt4]
+  rhel:
+    pip: [pyqtbindings]
 python-qt4-gl:
   debian:
     apt:
